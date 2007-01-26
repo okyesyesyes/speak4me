@@ -7,6 +7,4 @@ Students at Learning Disabilities Services will be the first users. Everyone, ho
 
 Project Files:
 
-[http://cs.unc.edu]
-Functional Specifications
-
+[http://speak4me.googlecode.com/files/speak4meSpecs.doc Functional Specifications]
