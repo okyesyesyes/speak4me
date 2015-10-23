@@ -1,0 +1,10 @@
+Text-to-Speech Tool that reads text for you
+
+Suite of cross-platform text-to-speech tools, with which a computer reads text aloud. The tools have a series of text-to-speech interfaces, including a stand alone interface and a converter to save the speech to an MP3. Other possible added tools include a firefox plug-in, and an online database for customized pronunciations of words.
+
+Students at Learning Disabilities Services will be the first users. Everyone, however, can take advantage of the tools, for example, to create MP3 of a text and listen to it on the road. The reading software is a critical tool to help students with reading weaknesses. Having the computer read text aloud to students helps them circumvent their difficulty of processing printed text.
+
+
+Project Files:
+
+[Functional Specifications](http://speak4me.googlecode.com/files/speak4meSpecs.doc)
